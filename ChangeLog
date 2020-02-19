@@ -1,3 +1,9 @@
+2020-02-16  Anton Gavrilyuk  <amigoalt@gmail.com>
+
+	- The newest Lua 5.3.5 is supported (resolved issue:  https://github.com/antoncom/tokyo-tyrant/issues/1)
+
+	- Release: 1.1.42
+
 2010-02-02  FAL Labs  <info@fallabs.com>
 
 	- site documents were modified.
